@@ -1,4 +1,4 @@
-<h1 style="color:pink">Diana</h1><h1 style="color:blue">mics</h1><h1>#PCFLady</h1>
+<h1><span style="color:pink">Diana</span><span style="color:orange">mics</span> #PCFLady</h1>
 ### Hi there 👋
 
 
