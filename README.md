@@ -1,4 +1,6 @@
+<h1 style="color:pink">Diana</h1><h1 style="color:blue">mics</h1><h1>#PCFLady</h1>
 ### Hi there 👋
+
 
 <!--
 **brasov2de/brasov2de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
